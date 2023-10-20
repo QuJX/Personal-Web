@@ -1,6 +1,6 @@
 ---
 title: "MDSFE: Multiscale Deep Stacking Fusion Enhancer Network for Visual Data Enhancement"
-authors:
+authors: 
 - Yu Guo
 - Yuxu Lu
 - admin
