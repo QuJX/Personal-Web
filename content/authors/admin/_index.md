@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 瞿晶祥
+title: Jingxiang Qu
 
 # Name pronunciation (optional)
-name_pronunciation: Jing Xiang Qu
+# name_pronunciation: Jing Xiang Qu
 
 # Full name (for SEO)
 first_name: Jingxiang
