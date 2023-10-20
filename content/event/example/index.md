@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: An graduate academic seminar about intelligent navigation and qualified mariner training
-abstract: 'Introducing the recent research on automatic vessel draft reading'.
+abstract: 'Introducing the recent research on automatic vessel draft reading'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
