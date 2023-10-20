@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 瞿晶祥
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jing Xiang Qu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jingxiang
+last_name: Qu
 
 # Status emoji
 status:
@@ -17,41 +17,39 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Wuhan University of Technology
+    url: http://english.whut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer vision, multimodal learning, graph learning, and their application to solve practical engineering problems.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multimodal Learning
+  - Graph Learning
+  - Computer Vision
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Traffic Information Engineering and Control
+      institution: Wuhan University of Technology
+      year: 2024
+    - course: BSc in Internet of Things
+      institution: Jiangsu University of Science and Technology
+      year: 2021
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-    - name: Python
+    - name: Python (PyTorch)
       description: ''
       percent: 80
       icon: python
@@ -61,29 +59,29 @@ skills:
       percent: 100
       icon: chart-line
       icon_pack: fas
-    - name: SQL
+    - name: Software Engineering
       description: ''
       percent: 40
-      icon: database
-      icon_pack: fas
+      icon: uncharted
+      icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: badminton
         icon_pack: fas
+      - name: Table Tennis
+        description: ''
+        percent: 80
+        icon: table-tennis-paddle-ball
+        icon_pack: far
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
         icon_pack: fas
 
 # Social/Academic Networking
@@ -91,21 +89,21 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=9zK-zGoAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/QuJX
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -114,11 +112,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV of Jingxiang Qu.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jingxiang Qu is currently a MS Student at the WHUT MIPC Lab, focusing on the computer vision and graph-based multiple sensor fusion. His research interests include multimodal learning, computer vision, graph learning, and their appication in solving engineering problems. He has published over 10 papers on top journals (IEEE T-ITS, IEEE T-IM, Ocean Engneering, etc.) and conferences (IEEE CVPRW, IEEE ITSC, etc.). 
 {style="text-align: justify;"}
