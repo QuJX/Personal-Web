@@ -1,10 +1,10 @@
 ---
 title: "Multi-Task Learning-Enabled Automatic Vessel Draft Reading for Intelligent Maritime Surveillance"
-authors:
+authors: 
 - admin
 - Ryan Wen Liu
 - Chenjie Zhao
-- et al
+- et al.
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
