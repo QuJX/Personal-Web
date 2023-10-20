@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Maritime Surveillance Framework Driven by Fusion of Camera-Based Vessel Detection and AIS Data"
-authors:
+authors: 
 - admin
 - Yu Guo
 - Yuxu Lu
@@ -20,7 +20,6 @@ publication_short: "ITSC"
 
 abstract: Efficient maritime surveillance is necessary for navigation, which usually uses cameras to capture the vessels. However, the information in camera-based data is limited. In this work, we propose a novel intelligent maritime surveillance framework driven by the fusion of camera-based vessel detection and Automatic Identification System (AIS) data. Firstly, we employ a vessel detection network to get the relative positions of the vessels from the calibrated camera-based data. Meanwhile, we design a series of filters based on data completeness, detection range, and vessel course to exclude the invalid AIS data. In the end, we propose a data fusion module based on estimating the time when the vessel arrive at the specific position. According to the experiment on our collected dataset, the proposed framework performs competitively in diversified scenes. The mean absolute distance deviation of the estimation is less than 30 meters, and the accuracy of data fusion is 81.423%.
 
-tags:
 featured: false
 
 # links:
