@@ -1,8 +1,8 @@
 ---
 title: A Multi-Sensor Data Fusion-Based AR Vessel Navigation System
 summary: Fusing the multiple sensors to provide accurate and reliable guidance for vessel navigation.
-tags:
-  - Multi-Sensor Fusion
+tags: 
+  - Deep Learning
 date: '2022-7-27'
 
 # Optional external URL for project (replaces project detail page).
