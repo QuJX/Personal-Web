@@ -14,7 +14,7 @@ publishDate: "2023"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Ocean \& Coastal Management"
+publication: "Ocean & Coastal Management"
 publication_short: "OCMA"
 
 abstract: Visual sensors are widely employed for real-time maritime surveillance. But they always suffer from some low-visibility problems, typically low light and haze, which greatly reduce the effectiveness of maritime management. In practical applications, the most common strategy is using separate networks to overcome different low-visibility problems. It needs large space for parameter storage. Besides, when the weather changes, the enhancement methods need to be toggled artificially, and the enhancement effect is unsatisfactory due to the lack of maritime dataset. To tackle these problems, we designed a learned parameter sharing (LPS)-based versatile visibility enhancement network (LPSNet) and trained it on the synthetic maritime dataset. It enhances the quality of captured surveillance data under both low-light and hazy environments via a versatile model. Due to the LPS between different low-visibility enhancement tasks, the proposed network performs better on the mutual problems, like noise suppression and detail preservation. Therefore, our LPSNet achieves superior enhancement effect on both low-light enhancement and dehazing. Besides, the running time is shorter than most of the previous methods, which can enhance 800 × 600 images over 18 FPS. Moreover, the comparison experiment on vessel detection task indicates the benefits of the proposed method on maritime management promotion under low-visibility weathers. 
