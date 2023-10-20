@@ -1,6 +1,6 @@
 ---
 title: "Improving maritime traffic surveillance in inland waterways using the robust fusion of AIS and visual data"
-authors:
+authors: 
 - admin
 - Ryan Wen Liu
 - Yu Guo
