@@ -1,6 +1,6 @@
 ---
 title: "Edge Computing-Enabled Multi-Sensor Data Fusion for Intelligent Surveillance in Maritime Transportation Systems"
-authors:
+authors: 
 - admin
 - Ryan Wen Liu
 - Jiangtian Nie
@@ -20,7 +20,6 @@ publication_short: "DASC"
 
 abstract: With the rapid development of navigation technologies, maritime transportation has become one of the mainstream international trade channels. However, a large number of maritime traffic accidents still occur every year, which cause significant economic losses and environmental damage. Intelligent and efficient surveillance in maritime transportation systems is essential for avoiding accidents. This paper proposes an edge computing-enabled multi-sensor data fusion method for intelligent maritime surveillance, which achieves efficient perception of maritime traffic information by receiving and processing visual and Automatic Identification System (AIS) data simultaneously. We first propose an anti-occlusion algorithm for vessel tracking based on visual trajectory analysis to mitigate missing detection caused by overlapping vessels. We then leverage the Hungarian algorithm driven by multidimensional feature analysis to match data collected by different sensors. The matched AIS information is eventually fused into the visual target of interest. Extensive experiments illustrate that our method can achieve effective information perception in different maritime environments with 91.67% accuracy and superior robustness.
 
-tags:
 featured: false
 
 # links:
