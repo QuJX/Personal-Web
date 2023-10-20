@@ -4,7 +4,7 @@ authors:
 - admin
 - Ryan Wen Liu
 - Chenjie Zhao
-- et al.
+- et al
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
