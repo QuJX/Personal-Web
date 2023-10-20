@@ -1,6 +1,6 @@
 ---
 title: "Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weathers"
-authors:
+authors: 
 - admin
 - Yuan Gao
 - Yuxu Lu
