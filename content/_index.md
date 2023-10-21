@@ -90,32 +90,32 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end: ''
-          date_start: ''
+          date_end: '2023-10-21'
+          date_start: '2023-10-21'
           description: ''
           organization: China
           organization_url: 
           title: Graduate Student National Scholarship
           url: ''
         - certificate_url: 
-          date_end: ''
-          date_start: ''
+          date_end: '2023-05-27'
+          date_start: '2023-05-27'
           description: ''
           organization: Graduate Academic Seminar on "Intelligent Navigation and Qualified Mariner Training"
           organization_url: 
           title: The First Prize
           url: ''
         - certificate_url: 
-          date_end: ''
-          date_start: ''
+          date_end: '2023-08-20'
+          date_start: '2023-08-20'
           description: ''
           organization: The 5th China Postgraduate Robot Innovation and Design Competition
           organization_url: 
           title: The Third Prize
           url: ''
         - certificate_url: 
-          date_end: ''
-          date_start: ''
+          date_end: '2023-01-20'
+          date_start: '2023-01-20'
           description: ''
           organization: The 19th China PostGraduate Mathematical Contest in Modeling
           organization_url: 
