@@ -22,12 +22,4 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
----
-
 It enhances the captain's ability of navigational environmental perception. The system has been applied on several vessels for testing. It significantly promotes the navigation safety in waterway transportation system.
