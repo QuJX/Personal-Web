@@ -95,7 +95,7 @@ sections:
           description: ''
           organization: China
           organization_url: 
-          title: Graduate Student National Scholarship 1%
+          title: Graduate Student National Scholarship
           url: ''
         - certificate_url: 
           date_end: ''
@@ -117,7 +117,7 @@ sections:
           date_end: '2023'
           date_start: '2023'
           description: ''
-          organization: The 19th China Post-Graduate Mathematical Contest in Modeling
+          organization: The 19th China PostGraduate Mathematical Contest in Modeling
           organization_url: 
           title: The Third Prize
           url: ''
