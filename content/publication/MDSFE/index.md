@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Instrumentation and Measurement"
-publication_short: "T-IM"
+publication_short: "IEEE T-IM"
 
 abstract: With the rapid development of visual sensors and artificial intelligence (AI), video/image data has increased dramatically, especially in the era of AI-enabled intelligent transportation. In low-light imaging conditions, however, the camera only captures weak scene-reflected light. The visual data is thus inevitably affected by noise, low contrast, and poor brightness, and so on. It will have a negative influence on the development of vision-based traffic situational awareness, traffic safety management, and automatic/autonomous vehicles. To guarantee high-quality visual data, the multiscale deep stacking fusion enhancer (termed MDSFE) is proposed to enhance a low-light image. In particular, our MDSFE consists of four components, i.e., coarse extraction module (C-EM), coarse attention fusion module (C-AFM), multiscale dense enhancement module (M-DEM), and fine encoder–decoder fusion module (F-EDFM). The combination of these modules is capable of enhancing the abilities of feature mapping and expression. Experimental results on both synthetic and real-world scenarios have illustrated that the proposed method can provide superior enhancement results under different imaging conditions. It also has the capacity of improving the detection precision under low-light conditions.
 tags:
