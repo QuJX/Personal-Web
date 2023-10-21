@@ -6,6 +6,8 @@ authors:
 - admin
 - et al.
 
+date: '2023'
+
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023"
 
