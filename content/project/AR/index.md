@@ -24,4 +24,4 @@ url_video: ''
 
 ---
 
-It enhances the captain's ability of navigational environmental perception. The system has been applied on several vessels for testing. It significantly promotes the navigation safety in waterway transportation system.
+It enhances the ability of captain for navigational environmental perception. The system has been applied on several vessels for testing. It significantly promotes the navigation safety in waterway transportation system.
