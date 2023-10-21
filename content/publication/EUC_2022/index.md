@@ -19,7 +19,7 @@ publication_types: ["article-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2022 IEEE 20th International Conference on Embedded and Ubiquitous Computing"
-publication_short: "EUC"
+publication_short: "IEEE EUC"
 
 abstract: Vision-based maritime surveillance has become an essential part of the vessel traffic services system. The images collected in low-light maritime conditions often suffer from poor visibility. These images may significantly degenerate the performance of high-level visual tasks and increase the uncertainty in maritime surveillance. To address this problem, we propose a lightweight neural network (Rep-Enhancer) for low-light image enhancement. Specifically, we first design a re-parameterizable multi-branch edge extraction module, i.e., spatial domain-oriented convolution block (SDCB). Furthermore, skip connections and spatial attention operations are employed to strengthen the features. By exploiting these well-strengthened edge features, we can enhance the low-light images effectively with the encoder-decoder structure. The experimental results have shown that Rep-Enhancer can enhance the low-light image qualifiedly while maintaining great inference efficiency.
 
