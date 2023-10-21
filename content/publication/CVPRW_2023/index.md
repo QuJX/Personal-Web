@@ -3,10 +3,11 @@ title: "SCANet: Self-Paced Semi-Curricular Attention Network for Non-Homogeneous
 authors: 
 - Yu Guo
 - Yuan Gao
-- Wen Liu
+- Ryan Wen Liu
 - Yuxu Lu
 - admin
-- et al.
+- Shengfeng He
+- Wenqi Ren
 
 date: '2023'
 
