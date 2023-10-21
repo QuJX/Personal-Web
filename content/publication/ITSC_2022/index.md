@@ -4,9 +4,11 @@ authors:
 - admin
 - Yu Guo
 - Yuxu Lu
-- et al.
+- Fenghua Zhu
+- Yingchun Huan
+- Ryan Wen Liu
 
-date: '2023'
+date: '2022'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023"
