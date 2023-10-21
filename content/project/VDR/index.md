@@ -17,3 +17,7 @@ url_code: ''
 url_pdf: 'https://arxiv.org/abs/2310.07212'
 url_slides: ''
 url_video: ''
+
+---
+
+It has been deployed in Guangdong and Anhui Province, China.
