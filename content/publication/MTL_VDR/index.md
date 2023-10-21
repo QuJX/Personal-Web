@@ -4,7 +4,10 @@ authors:
 - admin
 - Ryan Wen Liu
 - Chenjie Zhao
-- et al.
+- Yu Guo
+- Sendren Sheng-dong Xu
+- Fenghua Zhu
+- Yisheng Lv
 
 date: '2023'
 # Schedule page publish date (NOT publication's date).
