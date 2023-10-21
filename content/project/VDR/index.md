@@ -13,20 +13,7 @@ image:
   focal_point: ''
 
 links: 
-  - icon: news
-    icon_pack: fab
-    name: Follow
-    url: https://share.plus.wifizs.cn/folder1/folder146/2023-02-22/eDybPS0ULDYOaVEw.html?_hgOutLink=vod/VideoDetail&id=732046
 url_code: ''
 url_pdf: 'https://arxiv.org/abs/2310.07212'
 url_slides: ''
 url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
----
-
