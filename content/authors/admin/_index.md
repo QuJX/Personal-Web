@@ -51,17 +51,17 @@ skills:
     items:
     - name: Python (PyTorch)
       description: ''
-      percent: 80
+      percent: 90
       icon: python
       icon_pack: fab
     - name: Data Science
       description: ''
-      percent: 100
+      percent: 60
       icon: chart-line
       icon_pack: fas
     - name: Software Engineering
       description: ''
-      percent: 40
+      percent: 70
       icon: uncharted
       icon_pack: fab
   - name: Hobbies
@@ -70,7 +70,7 @@ skills:
     items:
       - name: Badminton
         description: ''
-        percent: 60
+        percent: 80
         icon: badminton
         icon_pack: fas
       - name: Table Tennis
@@ -78,8 +78,8 @@ skills:
         percent: 80
         icon: table-tennis-paddle-ball
         icon_pack: far
-      - name: Cats
-        description: ''
+      - name: Puppy
+        description: 'Feeding a cat and a dog'
         percent: 100
         icon: cat
         icon_pack: fas
