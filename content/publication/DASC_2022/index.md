@@ -10,10 +10,10 @@ authors:
 - Han Yu
 - Dusit Niyato
 
-date: '2022-09'
+date: '2022-09-01'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023"
+publishDate: "2022-09-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
