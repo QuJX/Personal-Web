@@ -10,7 +10,7 @@ authors:
 - Han Yu
 - Dusit Niyato
 
-date: '2022'
+date: '2022-09'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023"
