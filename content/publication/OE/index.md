@@ -8,10 +8,10 @@ authors:
 - Jianlong Su
 - Peizheng Li
 
-date: '2023'
+date: '2023-06-01'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023"
+publishDate: "2023-06-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
