@@ -4,7 +4,11 @@ authors:
 - admin
 - Ryan Wen Liu
 - Jiangtian Nie
-- et al.
+- Xianjun Deng
+- Zehui Xiong
+- Yang Zhang
+- Han Yu
+- Dusit Niyato
 
 date: '2022'
 
