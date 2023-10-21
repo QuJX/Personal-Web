@@ -9,7 +9,7 @@ authors:
 - Shengfeng He
 - Wenqi Ren
 
-date: '2023'
+date: '2023-08'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023"
