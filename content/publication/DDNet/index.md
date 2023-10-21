@@ -19,8 +19,8 @@ publishDate: "2023"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Arxiv"
-publication_short: ""
+publication: "IEEE Transaction on Intelligent Transportation Systems"
+publication_short: "IEEE T-ITS"
 
 abstract: Real-time transportation surveillance is an essential part of the intelligent transportation system (ITS). However, images captured under low-light conditions often suffer the poor visibility with types of degradation, such as noise interference and vague edge features, etc. With the development of imaging devices, the quality of the visual surveillance data is continually increasing, like 2K and 4K, which has more strict requirements on the efficiency of image processing. To satisfy the requirements on both enhancement quality and computational speed, this paper proposes a double domain guided real-time low-light image enhancement network (DDNet) for ultra-high-definition (UHD) transportation surveillance. Specifically, we design an encoder-decoder structure as the main architecture of the learning network. In particular, the enhancement processing is divided into two subtasks (i.e., color enhancement and gradient enhancement) via the proposed coarse enhancement module (CEM) and LoG-based gradient enhancement module (GEM), which are embedded in the encoder-decoder structure. It enables the network to enhance the color and edge features simultaneously. Through the decomposition and reconstruction on both color and gradient domains, our DDNet can restore the detailed feature information concealed by the darkness with better visual quality and efficiency. The evaluation experiments on standard and transportation-related datasets demonstrate that our DDNet provides superior enhancement quality and efficiency compared with the state-of-the-art methods. Besides, the object detection and scene segmentation experiments indicate the practical benefits for higher-level image analysis under low-light environments in ITS.
 
