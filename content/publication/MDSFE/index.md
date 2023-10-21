@@ -4,7 +4,8 @@ authors:
 - Yu Guo
 - Yuxu Lu
 - admin
-- et al.
+- Ryan Wen Liu
+- Wenqi Ren
 
 date: '2023'
 
