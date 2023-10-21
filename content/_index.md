@@ -65,7 +65,7 @@ sections:
         - title: Algorithm Development Engineer
           company: Zhejiang Sunglory Marine Technology Co., Ltd
           company_url: ''
-          company_logo: Sunglory
+          company_logo: org-gc
           location: Zhoushan
           date_start: '2022-07-01'
           date_end: '2022-08-25'
