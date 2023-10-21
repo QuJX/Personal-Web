@@ -4,7 +4,9 @@ authors:
 - admin
 - Ryan Wen Liu
 - Yuan Gao
-- et al.
+- Yu Guo
+- Fenghua Zhu
+- Feiyue Wang
 
 date: '2023'
 
