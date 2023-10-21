@@ -9,9 +9,9 @@ authors:
 - Fenghua Zhu
 - Yisheng Lv
 
-date: '2023'
+date: '2023-10-21'
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2023-10-21"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
