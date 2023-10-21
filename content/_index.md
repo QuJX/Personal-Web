@@ -91,7 +91,7 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2023'
+          date_start: ''
           description: ''
           organization: China
           organization_url: 
@@ -99,23 +99,23 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2023'
+          date_start: ''
           description: ''
           organization: Graduate Academic Seminar on "Intelligent Navigation and Qualified Mariner Training"
           organization_url: 
           title: The First Prize
           url: ''
         - certificate_url: 
-          date_end: '2023'
-          date_start: '2023'
+          date_end: ''
+          date_start: ''
           description: ''
           organization: The 5th China Postgraduate Robot Innovation and Design Competition
           organization_url: 
           title: The Third Prize
           url: ''
         - certificate_url: 
-          date_end: '2023'
-          date_start: '2023'
+          date_end: ''
+          date_start: ''
           description: ''
           organization: The 19th China PostGraduate Mathematical Contest in Modeling
           organization_url: 
