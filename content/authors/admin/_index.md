@@ -40,7 +40,7 @@ education:
     - course: MEng in Traffic Information Engineering and Control
       institution: Wuhan University of Technology
       year: 2024
-    - course: BSc in Internet of Things
+    - course: BEng in Internet of Things
       institution: Jiangsu University of Science and Technology
       year: 2021
 
