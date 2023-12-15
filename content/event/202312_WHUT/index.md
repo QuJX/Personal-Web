@@ -1,23 +1,23 @@
 ---
-title: Graduate Academic Seminar
+title: Give a talk in shool of navigation, Wuhan University of Technology.
 
-event: Intelligent Navigation and Qualified Mariner Training
+event: Forum on 'Traffic Environment and Safety'
 # event_url: https://example.org
 
-location: Zhejiang Ocean University
+location: Wuhan University of Technology
 address:
   # street: 450 Serra Mall
-  city: Zhoushan
+  city: Wuhan
   # region: CA
   # postcode: '94305'
   country: China
 
-summary: An graduate academic seminar about intelligent navigation and qualified mariner training
+summary: A forum on 'Traffic Environment and Safety'
 abstract: 'Introducing the recent research on automatic vessel draft reading'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-27'
+date: '2023-12-10'
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
