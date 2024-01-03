@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Jingxiang Qu is currently a MS Student in MIPC Lab from WHUT, focusing on the computer vision and graph-based multi-sensor fusion. His research interests include multimodal learning, computer vision, graph learning, and their appication in solving engineering problems. He has published over 10 papers on top journals (IEEE T-ITS, IEEE T-IM, EAAI, Ocean Engneering, etc.) and conferences (IEEE CVPRW, IEEE ITSC, IEEE DASC, etc.). 
+Jingxiang Qu is currently a MS Student in MIPC Lab from WHUT, focusing on the computer vision and graph-based multi-sensor fusion. His research interests include multimodal learning, computer vision, graph learning, and their appication in solving engineering problems. He has published over 10 papers on top journals (IEEE T-ITS, IEEE T-IM, EAAI, Ocean Engneering, etc.) and conferences (IEEE CVPRW, IEEE ITSC, IEEE DASC, etc.). He served as a reviewer of ITSC (2023), ICONIP (2023), etc.
 {style="text-align: justify;"}
