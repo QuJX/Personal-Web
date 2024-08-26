@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master
+role: PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Wuhan University of Technology
-    url: http://english.whut.edu.cn/
+  - name: Stony Brook University
+    url: https://www.stonybrook.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision, multimodal learning, graph learning, and their application to solve practical engineering problems.
+bio: My research interests include multimodal learning, computer vision, graph learning, and their application to solve real-world problems.
 
 # Interests to show in About widget
 interests:
@@ -37,6 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: Stony Brook University
+      year: Now
     - course: MEng in Traffic Information Engineering and Control
       institution: Wuhan University of Technology
       year: 2024
@@ -109,7 +112,7 @@ social:
     link: https://www.linkedin.com/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:qujx@whut.edu.cn'
+    link: 'mailto:jingxiang.qu@stonybrook.edu'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -121,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Jingxiang Qu is currently a MS Student in MIPC Lab from WHUT, focusing on the computer vision and graph-based multi-sensor fusion. His research interests include multimodal learning, computer vision, graph learning, and their appication in solving engineering problems. He has published over 10 papers on top journals (IEEE T-ITS, IEEE T-IM, EAAI, Ocean Engneering, etc.) and conferences (IEEE CVPRW, IEEE ITSC, IEEE DASC, etc.). He served as a reviewer of ITSC (2023), ICONIP (2023), etc.
+Jingxiang Qu is currently a PhD Student in AIRs Lab from Stnoy Brook University, focusing on the computer vision and graph-based multi-sensor fusion. His research interests include multimodal learning, computer vision, graph learning, and their appication in solving engineering problems. He has published over 10 papers on top journals (IEEE T-ITS, IEEE T-IM, EAAI, Ocean Engneering, etc.) and conferences (IEEE CVPRW, IEEE ITSC, IEEE DASC, etc.). He served as a reviewer of ITSC (2023), ICONIP (2023), etc.
 {style="text-align: justify;"}
