@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Jingxiang Qu is currently a PhD Student in AIRs Lab from Stnoy Brook University, focusing on the computer vision and graph-based multi-sensor fusion. His research interests include multimodal learning, computer vision, graph learning, and their appication in solving engineering problems. He has published over 10 papers on top journals (IEEE T-ITS, IEEE T-IM, EAAI, Ocean Engneering, etc.) and conferences (IEEE CVPRW, IEEE ITSC, IEEE DASC, etc.). He served as a reviewer of ITSC (2023), ICONIP (2023), etc.
+Jingxiang Qu is currently a PhD Student in AIRs Lab from Stnoy Brook University. His research interests include multimodal learning, computer vision, graph learning, and their appication in solving engineering problems. He has published over 10 papers on top journals and conferences. He served as the reviewer of ICLR, ITSC, ICONIP, IEEE SPL, etc.
 {style="text-align: justify;"}
