@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-Jingxiang Qu is currently a PhD Student in AIRs Lab from Stnoy Brook University. His research interests include multimodal learning, computer vision, graph learning, and their appication in solving engineering problems. He has published over 10 papers on top journals and conferences. He served as the reviewer of ICLR, ITSC, ICONIP, IEEE SPL, etc.
+Jingxiang Qu is currently a PhD Student in AIRs Lab from Stnoy Brook University, advised by Prof. <a href= "https://jacoblau0513.github.io/">Yi Liu</a> and Prof. <a href= "https://www3.cs.stonybrook.edu/~hling/">Haibin Ling</a>. His research interests include multimodal learning, computer vision, graph learning, and their appication in solving engineering problems. He has published over 10 papers on top journals and conferences. He served as the reviewer of ICLR, ITSC, ICONIP, IEEE SPL, etc.
 {style="text-align: justify;"}
