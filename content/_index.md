@@ -202,25 +202,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        I am seeking for Ph.D. positions. Please feel free to communicate for application or academic problems!  
-      # Contact (add or remove contact options as necessary)
-      email: qujx@whut.edu.cn
-      address:
-        street: Heping Avenue
-        city: Wuhan
-        region: CN
-        postcode: '430063'
-        country: China
-        country_code: CN
-      directions: 
-      office_hours:
-        - 'Feel free to contact'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
