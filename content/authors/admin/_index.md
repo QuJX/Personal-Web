@@ -25,11 +25,11 @@ organizations:
     url: https://www.stonybrook.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multimodal learning, computer vision, graph learning, and their application to solve real-world problems.
+bio: My research interests include Equivariant Learning, multimodal/graph learning, and their application to solve real-world problems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Equivariant Learning
   - Multimodal Learning
   - Graph Learning
   - Computer Vision
