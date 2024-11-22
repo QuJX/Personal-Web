@@ -19,7 +19,7 @@ publication_types: ["patent"]
 
 # Publication name and optional abbreviated publication name.
 publication: "US-Patent"
-publication_short: "US-Patent (Under Review)"
+publication_short: "US-Patent"
 
 abstract: TRACKING AND IDENTIFICATION METHOD, DEVICE, ELECTRONIC DEVICE, AND STORAGE MEDIUM FOR MULTIPLE VESSEL TARGETS
 tags:
@@ -28,7 +28,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://patents.google.com/patent/US12008801B1/en'
 url_code: ''
 url_dataset: ''
 url_poster: ''
